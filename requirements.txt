@@ -4,3 +4,4 @@ sklearn
 numpy
 dotenv
 matplotlib
+vre-repository-connector
